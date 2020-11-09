@@ -1,0 +1,9 @@
+Es un lenguaje inventado por Brendan Eich en 1995.
+
+Sirve principalmente para programar procesamientos del lado "cliente" en los desarrollos web.
+
+Nos ayuda a añadir sierta interactividad a las paginas web.
+
+===================== Requisitos ================
+*Conosimientos de al goritmia.
+*Algunos conocimientos en lenguajes de scripting 
