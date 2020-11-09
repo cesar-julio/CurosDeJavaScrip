@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        /*Declaracion de las variables*/
+        var pi, radio, superficie, volumen;
+
+        /*Inicialización de las variables*/
+        pi = 3.1416;
+        radio = prompt("Radio de la esfera: ");
+
+        /*Calculos*/
+        superficie = 4 * pi * radio * radio;
+        volumen = superficie * radio / 3;
+
+        /*Mostrar los calculos realizados*/ 
+        document.write("Radio de la esfera: " + radio + "<br />")
+        document.write("Volumen de la esfera: " + superficie + "<br />Volumen: " + volumen);
+    </script>
+</body>
+</html>
